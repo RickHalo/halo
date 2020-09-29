@@ -1,5 +1,5 @@
 {
-	"version":1,
+	"version":2,
 	"update":"https://play.google.com/store/apps/details?id=com.gosv.player",
-	"forced": false
+	"forced": true
 }
